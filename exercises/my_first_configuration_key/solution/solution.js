@@ -2,7 +2,7 @@
 
 console.log('I will learn Confit!');
 
-// The config.json should look like this:
+// The config/config.json should look like this:
 // {
 //   "name": "Jon Doe"
 // }

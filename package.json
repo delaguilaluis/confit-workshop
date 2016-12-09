@@ -1,7 +1,7 @@
 {
   "name": "confit-workshop",
   "version": "1.0.0",
-  "description": "Workshop to learn to use Confit, the Kraken.js configuration module",
+  "description": "Workshop to learn to use Confit, the Krakenjs configuration module",
   "bin": "./confit-workshop.js",
   "scripts": {
     "test": "exit 0",

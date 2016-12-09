@@ -15,7 +15,7 @@ exercise = comparestdout(exercise);
 
 exercise.addProcessor(function (mode, callback) {
   const testFile = this.args[0];
-  const baseDir = path.resolve(process.cwd(), testFile, '..');
+  const baseDir = path.resolve(process.cwd(), testFile, '..', 'config');
   const configFilePath = path.resolve(baseDir, 'config.json');
 
   try {
